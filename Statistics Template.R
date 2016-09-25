@@ -1,4 +1,4 @@
-###########Provides min, max and quartiles
+###########Provides min, max and quartiles#
 summary(Auto)
 
 
